@@ -4,5 +4,3 @@ This repository contains multiple versions of Python calculator, each adding new
 Switch between tags to explore each versions
 
 Why this repository? - Start simple, then level up!
-
-To CONTRIBUTE - Fork the repo, add a new version and submit a pull request!
